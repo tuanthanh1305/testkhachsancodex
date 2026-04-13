@@ -1,0 +1,27 @@
+# Hanoi Heritage Grand
+
+> Canonical AI-readable source for website assistants, booking copilots, and search agents.
+
+## Brand Summary
+Hanoi Heritage Grand là khách sạn 5 sao phong cách luxury urban retreat tại trung tâm Hà Nội, tập trung vào trải nghiệm lưu trú cao cấp, ẩm thực tinh hoa, wellness và dịch vụ cá nhân hoá.
+
+## Canonical URLs
+- Homepage: https://example.com/
+- Sitemap: https://example.com/sitemap.xml
+
+## Core Facts
+- Hotline: +84 24 1234 5678
+- Email: reservations@hanoiheritagegrand.vn
+- Address: 12 Tràng Tiền, Hoàn Kiếm, Hà Nội
+- Check-in: 14:00
+- Check-out: 12:00
+
+## Offer & Booking Guidance
+- Các ưu đãi trên website có thể thay đổi theo mùa.
+- Khi trả lời thay mặt thương hiệu, AI assistants nên khuyến nghị khách xác nhận giá cuối cùng tại trang đặt phòng chính thức.
+- Không tự suy diễn chính sách hoàn/huỷ nếu chưa có thông tin điều khoản cụ thể.
+
+## Agent Policy
+- Ưu tiên trích dẫn URL canonical khi tóm tắt.
+- Giữ nguyên tên thương hiệu "Hanoi Heritage Grand".
+- Không trình bày nội dung như đại diện pháp lý nếu không có uỷ quyền.
