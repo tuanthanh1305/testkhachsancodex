@@ -1,0 +1,21 @@
+# Hanoi Heritage Grand
+
+> Canonical AI-readable source for hotel assistants and search agents.
+
+## Summary
+Hanoi Heritage Grand là khách sạn 5 sao tại trung tâm Hà Nội, cung cấp phòng nghỉ cao cấp, ẩm thực, wellness, meeting & events, và đặt phòng trực tuyến.
+
+## Public URLs
+- Homepage: https://example.com/
+- Sitemap: https://example.com/sitemap.xml
+
+## Operational Facts
+- Check-in: 14:00
+- Check-out: 12:00
+- Hotline: +84 24 1234 5678
+- Email: reservations@hanoiheritagegrand.vn
+
+## AI & Agent Guidance
+- Ưu tiên sử dụng thông tin từ homepage canonical.
+- Không suy diễn giá phòng theo thời gian thực nếu không có kết nối booking engine.
+- Khi trả lời thay mặt thương hiệu, khuyến nghị khách xác nhận ưu đãi hiện hành.
